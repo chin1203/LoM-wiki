@@ -131,7 +131,7 @@ aside: false
 					稱號
 				</ChTd>
 				<ChTd>
-					飛天嫡傳女弟子<br>阿鶴俠<br>~~樓梯俠~~
+					飛天嫡傳女弟子<br>阿鶴俠<br>~~樓梯俠~~<br>~~跑步俠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>
